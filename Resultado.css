@@ -1,0 +1,43 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.row{
+    padding: 0px 25px;
+}
+
+.cara{
+    float: left;
+    width: 60px;
+}
+
+.title{
+    font-size: 2em;
+    color: black;
+    text-align: center;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.input-group{
+    justify-content: center;
+    background-color: rgba(226, 229, 244, 0.767);
+}
+
+.container{
+    padding: 0px;
+    transition: .5s all;
+    width: 300px;
+}
+
+.header{
+    border-radius: .5vmax;
+    background-color: rgba(120, 138, 177, 0.767);    
+    width: 100%;
+    justify-content: center;
+    color: white;
+    
+}
